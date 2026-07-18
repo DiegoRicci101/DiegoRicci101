@@ -51,5 +51,5 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/DiegoRicci101/DiegoRicci101/output/snake.svg" alt="Snake animation"/>
 </p>
