@@ -25,11 +25,11 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/DiegoRicci101">
+  <a href="https://www.linkedin.com/in/diego-garc%C3%ADa-284904386/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/DiegoRicci101">
+  <a href="https://x.com/R649655R">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
