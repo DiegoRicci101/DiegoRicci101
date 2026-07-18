@@ -42,9 +42,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dracula&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=DiegoRicci101&theme=dracula&hide_border=false"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=dracula&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DiegoRicci101&theme=dracula&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
